@@ -21,3 +21,4 @@ And the highest state of customer churn is West Virginia.
 
 Monthly contract is the highest contract type of churned people who have unlimited plan and direct debt with monthly contract is a big problem for customer churn. 
 
+Data is non linear, Prediction models that are used are random forest tree and adaboost. with accuracy exceed 85 % with features selected by Information Gain
